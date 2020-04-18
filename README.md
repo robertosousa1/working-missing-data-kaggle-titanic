@@ -6,7 +6,7 @@
 	Working missing data
 </h3>
 <p align="center">
-This is a simple repository for working with missing data in a Titanic dataset obtained by the Kaggle platform.
+This is a simple repository for working with missing data in a Titanic dataset (Kaggle).
 </p>
 <p align="center">
   <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/robertosousa1/working-missing-data-kaggle-titanic.svg">
